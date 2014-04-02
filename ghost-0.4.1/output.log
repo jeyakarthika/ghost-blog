@@ -1,0 +1,21 @@
+
+> ghost@0.4.1 start /Users/Vijay/Documents/Development/GitHub/ghost-blog/ghost-0.4.1
+> node index
+
+[32mGhost is running...[39m 
+Your blog is now available on http://jeyakarthika.com [90m
+Ctrl+C to shut down[39m
+127.0.0.1 - - [Mon, 31 Mar 2014 03:28:20 GMT] "GET / HTTP/1.1" 200 2811 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36"
+127.0.0.1 - - [Mon, 31 Mar 2014 03:28:20 GMT] "GET /assets/css/screen.css?v=3042fa75f5 HTTP/1.1" 200 18659 "http://127.0.0.1:2368/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36"
+127.0.0.1 - - [Mon, 31 Mar 2014 03:28:20 GMT] "GET /shared/vendor/jquery/jquery.js?v=3042fa75f5 HTTP/1.1" 200 93064 "http://127.0.0.1:2368/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36"
+127.0.0.1 - - [Mon, 31 Mar 2014 03:28:20 GMT] "GET /assets/js/jquery.fitvids.js?v=3042fa75f5 HTTP/1.1" 200 2781 "http://127.0.0.1:2368/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36"
+127.0.0.1 - - [Mon, 31 Mar 2014 03:28:20 GMT] "GET /assets/js/index.js?v=3042fa75f5 HTTP/1.1" 200 206 "http://127.0.0.1:2368/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36"
+127.0.0.1 - - [Mon, 31 Mar 2014 03:28:20 GMT] "GET /assets/css/normalize.css HTTP/1.1" 200 7545 "http://127.0.0.1:2368/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36"
+127.0.0.1 - - [Mon, 31 Mar 2014 03:28:20 GMT] "GET /assets/fonts/icons.woff HTTP/1.1" 200 2656 "http://127.0.0.1:2368/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36"
+127.0.0.1 - - [Mon, 31 Mar 2014 03:28:31 GMT] "GET /ghost/ HTTP/1.1" 302 84 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36"
+127.0.0.1 - - [Mon, 31 Mar 2014 03:28:31 GMT] "GET /ghost/signup/ HTTP/1.1" 200 2259 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36"
+127.0.0.1 - - [Mon, 31 Mar 2014 03:28:31 GMT] "GET /ghost/css/screen.css?v=3042fa75f5 HTTP/1.1" 200 96622 "http://127.0.0.1:2368/ghost/signup/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36"
+127.0.0.1 - - [Mon, 31 Mar 2014 03:28:31 GMT] "GET /ghost/scripts/ghost.min.js?v=3042fa75f5 HTTP/1.1" 200 488477 "http://127.0.0.1:2368/ghost/signup/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36"
+[31m
+Ghost has shut down[39m 
+Your blog is now offline
